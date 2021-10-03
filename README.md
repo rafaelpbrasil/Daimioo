@@ -1,4 +1,4 @@
-# Hello world <img src="https://media.giphy.com/media/3oAt2gB5RNjOv9wOeA/giphy.gif" width="60px">
+# Hello world <img src="https://media.giphy.com/media/3oAt2gB5RNjOv9wOeA/giphy.gif" width="120em">
 
 ---
 My name is Rafael i'm a software developer (mostly mobile) from Brasil.
