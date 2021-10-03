@@ -1,6 +1,5 @@
 # Hello world <img src="https://media.giphy.com/media/3oAt2gB5RNjOv9wOeA/giphy.gif" width="120em">
 
----
 My name is Rafael i'm a software developer (mostly mobile) from Brasil.
 
 You can find me on [Linkedin](https://www.linkedin.com/in/rafael-pontes/) or on [Twitter](https://twitter.com/rafaelpontes616).<br>
@@ -27,6 +26,7 @@ Here are some tech i worked with or just played:
   </a>
 </div><br>
 
+---
 
 ```
  .              +   .                .   . .     .  .
