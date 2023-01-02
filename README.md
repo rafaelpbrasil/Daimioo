@@ -1,8 +1,4 @@
-# Hello world <img src="https://media.giphy.com/media/3oAt2gB5RNjOv9wOeA/giphy.gif" width="120em">
-
-My name is Rafael i'm a software developer (mostly mobile) from Brasil.
-
-You can find me on [Linkedin](https://www.linkedin.com/in/rafael-pontes/) or on [Twitter](https://twitter.com/rafaelpontes616).<br>
+<img src="https://media.giphy.com/media/3oAt2gB5RNjOv9wOeA/giphy.gif" width="120em">
 
 ## My toolbox ⚒️
 Here are some tech i worked with or just played:
@@ -17,33 +13,3 @@ Here are some tech i worked with or just played:
   <img align="center" alt="laravel-logo" src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" height="30" width="40"/>
   <img align="center" alt="nodejs-logo" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" height="30" width="40"/>
 </div><br>
-
-## Stats 💩
-<div align="left">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimioo&theme=ocean_dark&layout=compact&langs_count=10" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daimioo&count_private=true&theme=ocean_dark" />
-  </a>
-</div><br>
-
----
-
-```
- .              +   .                .   . .     .  .
-                   .                    .       .     *
-  .       *                        . . . .  .   .  + .
-            "You Are Here"            .   .  +  . . .
-.                 |             .  .   .    .    . .
-                  |           .     .     . +.    +  .
-                 \|/            .       .   . .
-        . .       V          .    * . . .  .  +   .
-           +      .           .   .      +
-                            .       . +  .+. .
-  .                      .     . + .  . .     .      .
-           .      .    .     . .   . . .        ! /
-      *             .    . .  +    .  .       - O -
-          .     .    .  +   . .  *  .       . / |
-               . + .  .  .  .. +  .
-.      .  .  .  *   .  *  . +..  .            *
- .      .   . .   .   .   . .  +   .    .            +
-```
